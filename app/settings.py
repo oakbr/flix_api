@@ -92,7 +92,7 @@ WSGI_APPLICATION = 'app.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'flix-api',
+        'NAME': 'flixapi',
         'USER': 'postgres',
         'PASSWORD': 'EWQ-3819',
         'HOST': 'localhost',
