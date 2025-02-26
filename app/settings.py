@@ -89,17 +89,17 @@ WSGI_APPLICATION = 'app.wsgi.application'
 #     }
 # }
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'flixapi',
-        'USER': 'postgres',
-        'PASSWORD': 'EWQ-3819',
-        'HOST': 'localhost',
-        'PORT': '5432',
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'flixapi',
+#         'USER': 'postgres',
+#         'PASSWORD': 'EWQ-3819',
+#         'HOST': 'localhost',
+#         'PORT': '5432',
 
-    }
-}
+#     }
+# }
 
 
 
